@@ -1,0 +1,23 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "A01BF8DF03F4ADEEC387AF9A1B2F71671B698F8E",
+			"Assets": [
+				"/Game/Geometry/Meshes/CubeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "7727B3BDB4BA7EB1753B49A631F5A1CDD172FC04",
+			"Assets": [
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "1EC0218FB761EBB54DB863B1941797688E97AC47",
+			"Assets": [
+				"/Engine/EngineMaterials/AntiAliasedTextMaterialTranslucent"
+			]
+		}
+	]
+}

@@ -1,0 +1,14 @@
+{
+	"ClientVersion": "DLC1.0",
+	"BuildUrl": "DLC1.0/Android_ASTC",
+	"files": [
+		{
+			"filename": "AndroidBasic_AndroidBasicDLC1.0.manifest",
+			"uniqueFilename": "AndroidBasic_AndroidBasicDLC1.0.manifest",
+			"length": 3274,
+			"URL": "AndroidBasic_AndroidBasicDLC1.0.manifest",
+			"hash": "0883BF651D7A0177DF56A76EB07E92C2FDD4013B",
+			"hash256": "98D4F424B2BE2CC2AE7D7949D063E903A459801D14B057C2E33EFCC3745F07F0"
+		}
+	]
+}
